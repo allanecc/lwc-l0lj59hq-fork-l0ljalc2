@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/allanecc.lwc-l0lj59hq-fork-l0ljalc2",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve IFM6eGs8LV67GunbQ4zH --open"
+  }
+}
